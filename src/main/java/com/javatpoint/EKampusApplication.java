@@ -2,10 +2,10 @@ package com.javatpoint;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
-public class SpringBootH2DatabaseExampleApplication 
+public class EKampusApplication
 {
 public static void main(String[] args) 
 {
-SpringApplication.run(SpringBootH2DatabaseExampleApplication.class, args);
+SpringApplication.run(EKampusApplication.class, args);
 }
 }
